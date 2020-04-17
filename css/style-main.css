@@ -508,6 +508,9 @@ iframe {
 .bg-light {
   background-color: #f5f5f5 !important;
 }
+.bg-lightblack {
+  background-color: #000000 !important;
+}
 .bg-lighter {
   background-color: #f7f7f7 !important;
 }

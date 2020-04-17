@@ -339,7 +339,7 @@ blockquote {
 }
 /* border-bottom-color */
 .border-bottom {
-  border-bottom: 1px solid #72A230;
+  border-bottom: 4px solid #5D9CEC;
 }
 .event {
   border-bottom-color: #72A230;
